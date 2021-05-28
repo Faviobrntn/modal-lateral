@@ -34,7 +34,7 @@
             transition: opacity 0.3s linear, left 0.3s ease-out;
 }
 
-.modal.left.fade.show .modal-dialog{
+.modal.left.fade.in .modal-dialog{
     left: 0;
 }
     
@@ -47,7 +47,7 @@
             transition: opacity 0.3s linear, right 0.3s ease-out;
 }
 
-.modal.right.fade.show .modal-dialog {
+.modal.right.fade.in .modal-dialog {
     right: 0;
 }
 
